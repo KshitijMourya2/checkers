@@ -1,0 +1,8 @@
+Attritbutions:
+
+https://github.com/noorassan/checkers
+https://github.com/andreac92/react-checkers
+https://codepen.io
+
+https://wikipedia.org
+https://en.wikipedia.org/wiki/Draughts
